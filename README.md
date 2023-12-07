@@ -1,7 +1,4 @@
 <!---<h1 align="center">Hi, I'm Srudhi</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&color=F77F18&center=true&width=500&height=40"/>
-</p>
 ## 👨‍💻ABOUT ME: 
 <h3 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the front end to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h3>
 
@@ -60,11 +57,8 @@ srudhi6383/srudhi6383 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<a href="#"><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="loading..."></a>
 <h1 align="left" >Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Srudhi </h1>
 
-<a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;700%2B+DSA+Questions+Solved;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
 
 
 
@@ -73,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h3>
 
 
-
+<!---
  <h3> What do I do? </h3>
 
 <h4>✔️I aspire to work as a programmer.</h4>
@@ -81,6 +75,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <h4>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
 
 <h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+--->
 
 <hr>
 
@@ -145,4 +140,4 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 
 <hr clear="both">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
