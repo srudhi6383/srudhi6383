@@ -23,8 +23,14 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 </div>
+<div align ="start">
+   <a href="https://srudhi6383.github.io">
+    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
+  </a>
+</div>
 
-## 🛠 Skills
+
+## 🛠 Tools
 - React
 - Redux
 - JAVA
