@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" height="300px" />
+
 # Hi, I'm Srudhi! 👋
 
 ## 🚀 About Me
@@ -15,6 +17,8 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srudhi6383.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srudhi-pg/)
+
+[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](srudhi24@gmail.com)
 
 ## 🛠 Skills
 
