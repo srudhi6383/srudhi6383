@@ -17,11 +17,14 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srudhi6383.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srudhi-pg/)
-
-[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](srudhi24@gmail.com)
+<div align="start">
+  
+<a href="mailto:thereforeme06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+</div>
 
 ## 🛠 Skills
-
 - React
 - Redux
 - JAVA
