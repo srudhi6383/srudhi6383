@@ -33,3 +33,7 @@
 - CSS
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srudhi6383&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srudhi6383&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srudhi6383&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srudhi6383&show_icons=true&theme=radical"/>
+
